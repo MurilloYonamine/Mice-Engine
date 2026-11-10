@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<img src="media/demo.gif" width="300">
+<img src="Media/demo.gif" width="300">
 </div>
 
 # Mice Engine
